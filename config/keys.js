@@ -1,3 +1,4 @@
+//you need to replace this with your mongodb URI
 module.exports = {
-    mongoURI: 'mongodb+srv://developer:Nerkmind1!@cluster0-zebsv.mongodb.net/test?retryWrites=true&w=majority'
+    mongoURI: ''
 }
